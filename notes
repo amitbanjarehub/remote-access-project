@@ -1,0 +1,15 @@
+server side run:
+
+project server side location:
+
+D:/amit/testing_anydesk/remote-control-desktop-robojs/remote-desktop/server
+
+http://82.112.237.153:7000/view   browser me run krne se server side start ho jayega.  
+
+client side  run : 
+
+client side location:
+
+F:\client
+
+1.npm start
